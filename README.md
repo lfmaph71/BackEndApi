@@ -13,3 +13,6 @@ por que en el front no alcance hacer para la validacion con JWT.
 VISUAL CODE, si desea correrlo en VS Code, solo es abrir la carpeta, habilitar una terminal y desde donde estan todos los archivos ejecutar "dotnet run", se ejecutara 
 el proyecto pero no desplegara la pagina swagger, al menos que se lo indique, pero el proyecto queda en escucha.
 
+NOTA:
+    No olvidar cambiar la cadena de conexion a la base de datos en el archivo appsettings.json por la cadena de su conexion.
+
