@@ -61,7 +61,7 @@ namespace BackEndApi.Controllers
         }
 
         //[Authorize]
-        [HttpPut, Route("EditarUsuarios")]
+        [HttpPost, Route("EditarUsuarios")]
         public IActionResult editarUsuarios(Usuario usuario)
         {
             try
@@ -75,7 +75,7 @@ namespace BackEndApi.Controllers
         }
 
         //[Authorize]
-        [HttpDelete, Route("EliminarUsuarios")]
+        [HttpPost, Route("EliminarUsuarios")]
         public IActionResult eliminarUsuarios(int idUsuario)
         {
             try

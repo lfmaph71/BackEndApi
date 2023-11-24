@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HaXZUtHfWHcoK6cuHFCLI1vJHNev3y8BwA4veudjPIDUAIgsv2Y3Nh2ZsJ7zFNEuT3N3zSiOUyVdZOf5TFLwMQ==",
+  "dgSpecHash": "8g+Mj6IcdSeQNtlWAKwhEksJxihHSoALS7suDCXHuzBRqs+Ry17TzWimKB5Nq7Bx+6uFdXcLyAQUg0Z8WiHaXA==",
   "success": true,
-  "projectFilePath": "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\BackEndApi.csproj",
+  "projectFilePath": "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\BackEndApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\l_fma\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\l_fma\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

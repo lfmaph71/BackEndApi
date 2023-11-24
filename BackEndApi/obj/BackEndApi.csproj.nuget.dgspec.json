@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\BackEndApi.csproj": {}
+    "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\BackEndApi.csproj": {}
   },
   "projects": {
-    "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\BackEndApi.csproj": {
+    "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\BackEndApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\BackEndApi.csproj",
+        "projectUniqueName": "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\BackEndApi.csproj",
         "projectName": "BackEndApi",
-        "projectPath": "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\BackEndApi.csproj",
+        "projectPath": "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\BackEndApi.csproj",
         "packagesPath": "C:\\Users\\l_fma\\.nuget\\packages\\",
-        "outputPath": "F:\\ProyectosVS2022\\REDBROW\\BackEndApi\\BackEndApi\\obj\\",
+        "outputPath": "F:\\ProyectosVS2022\\REDBROW\\backendapi\\backendapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
