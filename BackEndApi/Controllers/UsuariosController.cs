@@ -21,7 +21,7 @@ namespace BackEndApi.Controllers
         [HttpGet, Route("ListarUsuarios")]
         public IActionResult listarUsuarios()
         {
-            List<Usuario> listUsuario= new List<Usuario>();
+            //List<Usuario> listUsuario= new List<Usuario>();
             try
             {
                 return Ok(_isuarios.listUsuarios());
@@ -75,7 +75,7 @@ namespace BackEndApi.Controllers
         }
 
         //[Authorize]
-        [HttpPost, Route("EliminarUsuarios")]
+        [HttpGet, Route("EliminarUsuarios/{idUsuario}")]
         public IActionResult eliminarUsuarios(int idUsuario)
         {
             try
